@@ -50,7 +50,7 @@ function takeCommand(message){
         speak("hello sir, what can i help you?")
     }
     else if(message.includes("who are you?")){
-        speak("i am Bixby, a viratual assistant, created by Anant sir")
+        speak("i am Bixby, a viratual assistant, created by Ipshita")
     }
     else if(message.includes("open youtube")){
         speak("opening youtube...")
